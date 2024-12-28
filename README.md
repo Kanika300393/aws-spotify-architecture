@@ -117,4 +117,3 @@ To replicate this project, you need the following:
 ## Conclusion
 This project demonstrates the power of AWS Glue, S3, Athena, and QuickSight in creating a robust data pipeline. The architecture can be easily adapted for other domains and datasets.
 
-Feel free to fork this repository and enhance it further!
